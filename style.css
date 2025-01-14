@@ -125,6 +125,13 @@ ul + li {
 .allgbild3 {
     padding: 5px;
     margin-left: 135px;
+    width: 40%;
+    height: 60%;
+}
+
+.allgbild4 {
+    padding: 5px;
+    width: 32%;
 }
 
 #allgemein .buttonH4 {
@@ -139,6 +146,7 @@ ul + li {
     color: orangered;
     padding-top: 20px;
 }
+
 
 /*Geschichte html*/
 
@@ -222,7 +230,6 @@ th, td {
     font-size: x-large;
     color: orangered;
 }
-
 
 #doppelSpiel {
     padding-left: 20px;
